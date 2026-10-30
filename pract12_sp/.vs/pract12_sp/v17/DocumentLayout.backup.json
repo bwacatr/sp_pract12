@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\sp12\\pract12_sp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{346C1117-A3B6-415E-A15F-F210B5AC5B63}|pract12_sp\\pract12_sp.vcxproj|C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\sp12\\pract12_sp\\pract12_sp\\pract12_sp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{346C1117-A3B6-415E-A15F-F210B5AC5B63}|pract12_sp\\pract12_sp.vcxproj|solutionrelative:pract12_sp\\pract12_sp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pract12_sp.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\sp12\\pract12_sp\\pract12_sp\\pract12_sp.cpp",
+              "RelativeDocumentMoniker": "pract12_sp\\pract12_sp.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\sp12\\pract12_sp\\pract12_sp\\pract12_sp.cpp",
+              "RelativeToolTip": "pract12_sp\\pract12_sp.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAKMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T11:47:59.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
